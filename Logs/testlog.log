@@ -10,3 +10,6 @@
 2022-11-18 23:04:23,203 - com.Log4jExmple.Logintest -INFO - Chrome Browser Opened Successfully
 2022-11-18 23:04:23,290 - com.Log4jExmple.Logintest -ERROR - Error
 2022-11-18 23:04:23,785 - com.Log4jExmple.Logintest -INFO - Application Closed Successfully
+2022-11-18 23:46:56,570 - com.Log4jExmple.Logintest -INFO - Chrome Browser Opened Successfully
+2022-11-18 23:46:56,587 - com.Log4jExmple.Logintest -ERROR - Error
+2022-11-18 23:46:57,081 - com.Log4jExmple.Logintest -INFO - Application Closed Successfully

@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12570" started-at="2022-11-18T17:34:11Z" finished-at="2022-11-18T17:34:23Z">
+  <suite name="Default suite" duration-ms="8681" started-at="2022-11-18T18:17:21Z" finished-at="2022-11-18T18:17:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12570" started-at="2022-11-18T17:34:11Z" finished-at="2022-11-18T17:34:23Z">
-      <class name="com.Log4jExmple.Logintest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.Log4jExmple.Logintest@4563e9ab]" name="setup" duration-ms="12035" started-at="2022-11-18T23:04:11Z" finished-at="2022-11-18T23:04:23Z">
+    <test name="Default test" duration-ms="8681" started-at="2022-11-18T18:17:21Z" finished-at="2022-11-18T18:17:29Z">
+      <class name="com.OrangeHRMTest.FacebookApplication_Test">
+        <test-method status="PASS" signature="FacebookLogin_Test()[pri:0, instance:com.OrangeHRMTest.FacebookApplication_Test@483bf400]" name="FacebookLogin_Test" duration-ms="8622" started-at="2022-11-18T23:47:21Z" finished-at="2022-11-18T23:47:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="RediffClose()[pri:0, instance:com.Log4jExmple.Logintest@4563e9ab]" name="RediffClose" is-config="true" duration-ms="490" started-at="2022-11-18T23:04:23Z" finished-at="2022-11-18T23:04:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RediffClose -->
-      </class> <!-- com.Log4jExmple.Logintest -->
+        </test-method> <!-- FacebookLogin_Test -->
+      </class> <!-- com.OrangeHRMTest.FacebookApplication_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

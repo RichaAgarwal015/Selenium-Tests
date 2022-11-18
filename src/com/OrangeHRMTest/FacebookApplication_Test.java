@@ -37,7 +37,7 @@ public void FacebookLogin_Test() throws InterruptedException
 
 	driver.get(applicationUrlAddress);	
 	
-	driver.findElement(By.id("email")).sendKeys("richaagarwal015@gmail.com");
+	driver.findElement(By.id("email")).sendKeys("test@gmail.com");
 	
 	driver.findElement(By.id("pass")).sendKeys("Test");
 	

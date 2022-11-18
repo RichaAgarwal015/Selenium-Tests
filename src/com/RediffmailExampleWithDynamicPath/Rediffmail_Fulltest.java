@@ -54,7 +54,7 @@ public void Rediffmail_allfieldsTest()
  //name="passwd11d9f69b"
  
  WebElement Password= driver.findElement(By.xpath("//*[starts-with(@name,'passwd')]"));
- Password.sendKeys("richa12345");
+ Password.sendKeys("test");
 
  WebElement k= driver.findElement(By.xpath("//*[starts-with(@name,'altemail')]"));
 k.sendKeys("");
