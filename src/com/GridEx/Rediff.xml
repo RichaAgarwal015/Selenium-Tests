@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Rediffmail" >
+<test name = "chrome" >
+<parameter name = "Browser" value ="Chrome"/>
+<classes>
+<class name ="com.GridEx.RediffTest"/>
+</classes>
+</test>
+</suite>
