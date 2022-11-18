@@ -1,0 +1,12 @@
+[main] INFO com.Log4jExmple.Logintest - Chrome Browser Opened Successfully
+[main] ERROR com.Log4jExmple.Logintest - Error
+[main] INFO com.Log4jExmple.Logintest - Application Closed Successfully
+[main] INFO com.Log4jExmple.Logintest - Chrome Browser Opened Successfully
+[main] ERROR com.Log4jExmple.Logintest - Error
+[main] INFO com.Log4jExmple.Logintest - Application Closed Successfully
+[main] INFO com.Log4jExmple.Logintest - Chrome Browser Opened Successfully
+[main] ERROR com.Log4jExmple.Logintest - Error
+[main] INFO com.Log4jExmple.Logintest - Application Closed Successfully
+[main] INFO com.Log4jExmple.Logintest - Chrome Browser Opened Successfully
+[main] ERROR com.Log4jExmple.Logintest - Error
+[main] INFO com.Log4jExmple.Logintest - Application Closed Successfully
